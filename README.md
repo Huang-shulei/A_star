@@ -1,2 +1,2 @@
 # A_star
-waiting***
+Waiting……
